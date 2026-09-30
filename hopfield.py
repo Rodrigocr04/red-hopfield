@@ -1,5 +1,4 @@
 # primero se leen los 0s y 1s, se pasan a una lista y se convierten a 1s y -1s
-
 def leer_patron(ruta_archivo):
     vector = []
     with open(ruta_archivo, 'r') as f:
